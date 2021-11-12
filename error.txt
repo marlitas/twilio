@@ -1,0 +1,8 @@
+Executing script: /Users/MarlaSchulz/code/twilio/fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "/Users/MarlaSchulz/code/twilio/fizzbuzz.py", line 4, in <module>
+    if sys.argv[n] % 3 == 0 and sys.argv[n] % 5 == 0:
+TypeError: not all arguments converted during string formatting
+
